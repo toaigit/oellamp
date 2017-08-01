@@ -1,12 +1,12 @@
 {
     "region": "us-west-2",
-    "source_ami": "ami-01d6c778",
+    "source_ami": "ami-996f8be1",
     "inst_type": "t2.micro",
     "ssh_username": "centos",
     "subnet_id": "subnet-5521cc0e",
     "securitygroup_id": "sg-e707899c",
     "ami_name": "ASOEL73LAMP",
-    "ami_description": "Oracle_Linux_7.3_LAMP",
+    "ami_description": "OracleLinux7.3_LAMP from MinSec ami-996f8be1",
     "ami_role": "StanfordUpdateDNS",
     "userdata": "userdata-lamp.sh",
     "creator": "Toai_Vo"
